@@ -15,8 +15,8 @@ then you can see your message and information about that message and you can see
 '''
 
 
-uniq_ID='bot577945846:AAGi470sszD_Coz4XDj13i8ax9Qzdejy0A0'#_Your-ID_
-chat_id='443290984'#_YourChatID_
+uniq_ID='bot577945846:AAGi470ssz........'#_Your-ID_
+chat_id='443290.....'#_YourChatID_
 
 telegramBotURL='https://api.telegram.org/'+str(uniq_ID)+'/sendmessage?chat_id='+str(chat_id)+'&text='
 
